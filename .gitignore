@@ -1,0 +1,18 @@
+.env
+pin.json
+
+# Admin secret key (never commit)
+serviceAccountKey.json
+
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+dist/
+build/
+*.spec
+
+.DS_Store
+Thumbs.db
+serviceAccountKey.json
